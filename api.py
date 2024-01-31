@@ -31,7 +31,7 @@ def extract_text():
 
     return f"Text has been saved to: {output_text_file_path}"
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API KEY"
 
 CORS(app)
 
